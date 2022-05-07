@@ -20,6 +20,9 @@ const App = () => {
         tw="mx-auto flex flex-col items-center relative"
       >
         <div tw="p-5 block mt-24">
+          <Logo />
+        </div>
+        <div tw=" -mt-64 p-5 block">
           <Secondlogo />
         </div>
         <div
