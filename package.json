@@ -24,6 +24,7 @@
     "gatsby-plugin-react-helmet": "^3.8.0",
     "gatsby-plugin-react-leaflet": "2.0.8",
     "gatsby-plugin-use-query-params": "^1.0.1",
+    "heroku": "^7.60.2",
     "isomorphic-fetch": "^3.0.0",
     "leaflet": "^1.7.1",
     "postcss": "^8.2.1",

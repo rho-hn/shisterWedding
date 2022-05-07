@@ -1,5 +1,4 @@
 import React from 'react'
-import './Secondlogo.css'
 
 function Secondlogo() {
   return (
