@@ -107,7 +107,7 @@ const App = () => {
             tw="mx-auto w-full leading-loose font-sans p-1"
             style={{ maxWidth: 640 }}
           >
-            <img src="/images/manuMap-removebg-preview.png" tw="w-full" />
+            <img src="/images/manuMap-removebg.png" tw="w-full" />
           </div>
         </div>
       </div>
