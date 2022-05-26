@@ -1,6 +1,6 @@
 ## Wedding Website
 
-checkout the website at https://app.netlify.com/sites/shimmering-biscotti-d767e4/deploys
+checkout the website at https://main--shimmering-biscotti-d767e4.netlify.app/
 
 
 ## Getting Started
